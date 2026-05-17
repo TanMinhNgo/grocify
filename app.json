@@ -34,6 +34,14 @@
             "imageWidth": 76
           }
         }
+      ],
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "grocify",
+          "organization": "fpt-software-n4"
+        }
       ]
     ],
     "experiments": {
